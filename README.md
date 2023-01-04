@@ -1,4 +1,4 @@
-# scvi-tools-skeleton
+# A new scVI model with VampPrior
 
 [![Stars](https://img.shields.io/github/stars/YosefLab/scvi-tools-skeleton?logo=GitHub&color=yellow)](https://github.com/YosefLab/scvi-tools/stargazers)
 [![Documentation Status](https://readthedocs.org/projects/scvi-tools-skeleton/badge/?version=latest)](https://scvi-tools-skeleton.readthedocs.io/en/stable/?badge=stable)
